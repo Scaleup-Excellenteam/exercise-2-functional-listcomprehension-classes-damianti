@@ -102,7 +102,7 @@ named message_details, where i added keys 'is_read', 'recipient' and 'header' in
 ### Usage
 The main block of the code demonstrates an example usage of the PostOffice class.
 
-### Type Checking Decorator Factory
+### 6)  Type Checking Decorator Factory
 In this exercise, you will create a decorator factory called type_check that takes one argument, a type, and returns a
 decorator. This decorator checks if the first argument of the decorated function has the correct type. If the type is 
 incorrect, it raises a custom TypeCheckError.
